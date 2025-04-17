@@ -9,7 +9,6 @@ doi: "https://doi.org/10.1080/19475705.2024.2447514"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-01-11"
-show_related: false
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
