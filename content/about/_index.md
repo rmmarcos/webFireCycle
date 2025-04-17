@@ -13,4 +13,4 @@ The **core objective of FireCycle** is to develop, implement and integrate empir
 3. Simulate wildfire spread potential to characterize fire behavior. This is the core of the proposal. Growing simulated fires under a wide array of climate conditions and scenarios will unravel the actual pattern of burn probability. That is, the likelihood that a fire propagates through a given location and the behavior that it displays (e.g., burn intensity or rate of spread).
 4. Provide insights into the level of exposure of human and natural resources. The ultimate goal is to determine to which extent valuable assets can be affected by fires. Overlying burn probability (and fire behavior) we can outline the chances of a given asset (e.g., buildings, roads or ecosystems’ services) to be affected by fire.
 
-Grant CNS2023-144228 funded by MICIU/AEI/10.13039/501100011033/ and by the “European Union NextGenerationEU/PRTR”.  <img src="logo_aei.png" alt="funding" style="width:263px;height:100px;"> 
+Grant CNS2023-144228 funded by MICIU/AEI/10.13039/501100011033/ and by the “European Union NextGenerationEU/PRTR”.  <img src="logo_aei.png" alt="funding" style="width:263px;"> 
