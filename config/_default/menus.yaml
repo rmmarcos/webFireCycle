@@ -4,9 +4,9 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name = Home
-    url = https://firecycle.netlify.app/
-    weight = 20
+  - name: Home
+    url: https://firecycle.netlify.app/
+    weight: 20
   - name: About
     url: about
     weight: 20
