@@ -72,9 +72,9 @@ math: false
 diagram: false
 privacy_pack: false
 show_related:
-  post: true
+  post: false
   project: false
-  publication: true
+  publication: false
   talk: false
 reading_time: true
 section_pager: false
