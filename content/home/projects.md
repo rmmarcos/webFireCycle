@@ -1,7 +1,7 @@
 ---
 widget: projects
 headless: true
-active: true
+active: false
 weight: 60
 title: Projects
 ---
