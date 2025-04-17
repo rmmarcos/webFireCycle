@@ -1,25 +1,25 @@
 ---
-title: FIREPATHS webmapping app
+title: Introducing SCENFIRE at EGU
 
-event: FIREPATH webmapping app
-event_url: https://visor.firepaths.org/
+event: Oral presentation at the EGU General Assembly 2025
+event_url: https://meetingorganizer.copernicus.org/EGU25/EGU25-8974.html
 
 #location: Online meeting
 address:
 
-summary: Online app published!
-abstract: "As the end of the project approaches, we are glad to announce the publication of our results viewer application."
+summary: Introducing SCENFIRE, an new approach to ensemble stochastic wildfire spread simulations.
+abstract: " we introduce SCENFIRE, a specialized selection algorithm designed to align simulated fire perimeters with specific fire size distribution scenarios."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-12-19T10:00:00Z"
+date: "2025-04-01T10:00:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate:  "2024-12-19T10:00:00Z"
+publishDate:  "2025-04-01T10:00:00Z"
 
-authors: []
+authors: [admin]
 tags: []
 
 # Is this a featured talk? (true/false)
