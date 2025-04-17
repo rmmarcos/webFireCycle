@@ -6,7 +6,7 @@
 main:
   - name: Home
     url: https://firecycle.netlify.app/
-    weight: 20
+    weight: 10
   - name: About
     url: about
     weight: 20
@@ -25,7 +25,7 @@ main:
     main:
   - name: Related projects
     url: projects
-    weight: 30
+    weight: 40
   - name: Contact
     url: contact
     weight: 60
