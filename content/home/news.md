@@ -20,5 +20,6 @@ content:
   page_type: post
 design:
   view: 3
+  width: "narrow"
   columns: "1"
 ---
