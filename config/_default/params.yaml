@@ -73,9 +73,9 @@ diagram: false
 privacy_pack: false
 show_related:
   post: true
-  project: true
+  project: false
   publication: true
-  talk: true
+  talk: false
 reading_time: true
 section_pager: false
 sharing: true
