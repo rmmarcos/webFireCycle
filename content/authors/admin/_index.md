@@ -14,6 +14,8 @@ organizations:
   url: "http://geografia.unizar.es"
 - name: GEOFOREST-IUCA 
   url: "http://geoforest.unizar.es"
+- name: Personal website 
+  url: "https://marcosrodrigues.netlify.app/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include forest fires, spatial analysis and forestry.
