@@ -1,22 +1,22 @@
 ---
 # Display name
-title: Carmen Bentue
+title: Marcelo Ramos
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Postdoc researcher (N2)
+role: Junior researcher (N3)
 
 # Organizations/Affiliations
 organizations:
 - name: University of Zaragoza
   url: "http://geografia.unizar.es"
-- name: GEOT 
-  url: "https://iuca.unizar.es/grupo/grupo-de-estudios-de-ordenacion-del-territorio-geot/"
+- name: GEOFOREST-IUCA 
+  url: "http://geoforest.unizar.es"
 
 # Short bio (displayed in user profile at end of posts)
-
+bio: My research interests include ...
 
 interests:
 - GIS
@@ -25,15 +25,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Environmental and Land Management
-    institution: Stanford University
-    year: 2025
   - course: MSc in Geographic Information Technologies
     institution: University of Zaragoza
-    year: 2018
+    year: 2009
   - course: BSc in Geography
     institution: University of Zaragoza
-    year: 2017
+    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: cbentue@unizar.es'
+  link: '420563@posta.unizar.es'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/Krestatheklown
@@ -62,7 +59,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "cbentue@unizar.es"
+email: "m.ramos@unizar.es"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -72,4 +69,3 @@ highlight_name: false
 user_groups:
 - Researcher
 ---
-

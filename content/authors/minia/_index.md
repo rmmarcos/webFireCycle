@@ -6,7 +6,7 @@ title: Minia Blanco
 superuser: true
 
 # Role/position
-role: Junior researcher (N3.1)
+role: Junior researcher (N3)
 
 # Organizations/Affiliations
 organizations:
@@ -16,7 +16,6 @@ organizations:
   url: "http://geoforest.unizar.es"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ...
 
 interests:
 - GIS
@@ -25,9 +24,6 @@ interests:
 
 education:
   courses:
-  - course: DipHE in Advance applied statistical methods
-    institution: UNED
-    year: 2014
   - course: MSc in Geographic Information Technologies
     institution: University of Zaragoza
     year: 2009
