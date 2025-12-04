@@ -23,7 +23,7 @@ The approach is exemplified in the eastern Mediterranean coast of Spain, a regio
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2025-10-17"
+date: "2025-04-28"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
