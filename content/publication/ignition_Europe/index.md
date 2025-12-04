@@ -1,18 +1,19 @@
 ---
 title: "Assessing human-caused wildfire ignition likelihood across Europe"
 authors:
-- Gelabert, P. J.
-- Jiménez-Ruano, A.
-- Ochoa, C.
-- Alcasena, F.
-- Sjöström, J.
-- Marrs, C.
-- Ribeiro, L. M.
-- Palaiologou, P.
-- Bentué Martínez, C.
-- Chuvieco, E.
-- Vega-García, C.
+- Pere Gelabert
+- Adrian Jiménez-Ruano
+- Clara Ochoa
+- Fermín Alcasena
+- Johan Sjöström
+- Christopher Marrs
+- Luis Mario Ribeiro
+- Palaiologos Palaiologou
+- Carmen Bentué
+- Emilio Chuvieco
+- Cristina Vega-García
 - admin
+
 date: "2025-11-28"
 doi: "10.5194/nhess-25-4713-2025"
 
