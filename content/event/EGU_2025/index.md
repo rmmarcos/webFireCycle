@@ -1,5 +1,5 @@
 ---
-title: Presentation at the 2025 edition of European Geoscience Union
+title: Presentation at the 2025 edition of the European Geoscience Union
 
 event: Conference
 event_url:
