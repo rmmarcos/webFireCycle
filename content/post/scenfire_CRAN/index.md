@@ -12,7 +12,7 @@ location: CRAN repository
 #   postcode: '1220'
 #   country: Austria
 
-summary: Oral communication featuring the SCENFIRE algorithm
+summary: Publication of the SCENFIRE package
 abstract: A specialized selection algorithm designed to align simulated fire perimeters with specific fire size distribution scenarios. The foundation of this approach lies in generating a vast collection of plausible simulated fires across a wide range of conditions, assuming a random pattern of ignition. The algorithm then assembles individual fire perimeters based on their specific probabilities of occurrence, e.g., determined by (i) the likelihood of ignition and (ii) the probability of particular fire-weather scenarios, including wind speed and direction. Implements the method presented in Rodrigues (2026) <doi:10.1016/j.jocs.2026.102937>. Demo data and code examples can be found in Rodrigues (2025) <doi:10.5281/zenodo.15282605>.
 
 # Talk start and end times.
