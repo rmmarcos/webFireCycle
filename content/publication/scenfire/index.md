@@ -1,9 +1,7 @@
 ---
 title: "SCENFIRE: A flexible scenario-based algorithm for burn probability-based estimates of exposure to wildfires"
 authors:
-  - "M. Rodrigues"
-# Si estás tú en la lista de autores, puedes usar "admin" para que se enlace a tu perfil:
-- "admin"
+- admin
 
 date: "2026-01-01" # Ajusta el día y mes si los conoces
 doi: "10.1016/j.jocs.2026.102937"
